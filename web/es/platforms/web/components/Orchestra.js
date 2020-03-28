@@ -6,7 +6,8 @@ import _asyncToGenerator from 'babel-runtime/helpers/asyncToGenerator';
 
 var _this = this;
 
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 
 import MidiTrack from './MidiTrack';
 import { midiURLToMetaAndTracks } from '../MusicManager';
